@@ -1,0 +1,22 @@
+{
+  "company": "DataVex AI Pvt Ltd",
+  "location": "Mangaluru, Karnataka, India", 
+  "services": [
+    "Full-stack development (cloud-native, mobile-first)",
+    "Custom AI solutions & predictive analytics", 
+    "Deep learning models & data privacy",
+    "Cloud infrastructure (AWS, GCP, Azure)",
+    "End-to-end CI/CD pipelines & automation",
+    "Cloud cost optimization & scalability",
+    "Strategic IT consulting & process automation",
+    "PropTech AI + RPA (real estate automation)",
+    "AI marketing agents (campaign optimization)",
+    "Financial AI (risk assessment, fraud detection)"
+  ],
+  "perfect_customer": {
+    "employees": "1K+",
+    "tech_stack": ["AWS", "GCP", "Azure", "Kubernetes"],
+    "pains": ["cloud costs", "CI/CD failures", "data silos"],
+    "budget": "enterprise scale"
+  }
+}
